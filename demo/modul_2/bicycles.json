@@ -1,0 +1,20 @@
+{
+    "MTB" : {
+        "Marke" : "Cube", 
+        "Schaltung" : "Kette", 
+        "Bremse" : "Disk", 
+        "Laufrad": 26
+    },
+    "Trekking" : {
+        "Marke" : "vsf", 
+        "Schaltung" : "Kette", 
+        "Bremse" : "Felge", 
+        "Laufrad": 28
+    },
+    "Renner" : {
+        "Marke" : "Cannondale", 
+        "Schaltung" : "Kette", 
+        "Bremse" : "Felge", 
+        "Laufrad": 28
+    }
+}
