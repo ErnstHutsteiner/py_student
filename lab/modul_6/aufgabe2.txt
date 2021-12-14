@@ -1,0 +1,5 @@
+Mit der Einführung der Serie "Powersafer" erweitert sich die Liste der Properties um:
+- Leistungsaufnahme in Watt
+- Vereisungsgrad in Prozent
+
+Schreiben Sie eine neue Klasse für den "Powersafer".
