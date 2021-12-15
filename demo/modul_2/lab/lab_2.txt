@@ -1,0 +1,15 @@
+# Dictionaries
+
+my_bike_1 = {
+    "Art" : "MTB", 
+    "Marke" : "Cube", 
+    "Schaltung" : "Kette", 
+    "Bremse" : "Disk", 
+    "Laufrad": 28
+}
+
+1.
+"Erforschen" Sie die folgenden Methoden eines Dictionary:
+get(), update(), pop(), copy(), clear()
+
+2. Fügen Sie ein neues Element "Farbe" hinzu

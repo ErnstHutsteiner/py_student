@@ -19,7 +19,7 @@ for byte in b'binaer':
 
 # integer geht nicht, keine Sequenz
 # for stelle in 9876543:
-  #  print(stelle)
+  #  print(stelle
 
 # also muss ich mir ein iterierbares Objekt bauen
 
