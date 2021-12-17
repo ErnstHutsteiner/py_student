@@ -1,7 +1,0 @@
-Simulieren Sie eine Switch bzw. Case Anweisung if if..elif..else
-Eingabe     Ausgabe
-1           Winter
-2           Frühling
-3           Sommer
-4           Herbst
-5-x         5te Jahreszeit

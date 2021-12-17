@@ -1,4 +1,0 @@
-1. erzwingen Sie für 6435 den Datentyp int
-2. Splitten Sie folgenden Satz anhand des Punkts (.). Welchen Datentyp hat er danach
-"Meine Damen. Meine Herren. Liebe Kinder."
-3. Wandeln Sie den String "124.88" in float um
