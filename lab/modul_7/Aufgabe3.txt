@@ -1,5 +1,0 @@
-Öffnen Sie baseclass.py
-Importieren Sie dort Ihre Exceptionklassen
-Verändern Sie die Methode "set_is_on" derart, dass
-- Freezererror ausgegeben wird, wenn der Strom ausgeschlatet wird
-- Validationerror ausgegeben wird, wenn die Eingabe fehlerhaft ist

@@ -1,18 +1,13 @@
 # raise
+
 try:
-    try:
-        entered_value = int(input('Geben Sie eine Zahl bis 100 ein: '))
-    except ValueError:
-        print("ungültige Eingabe")
-
+    entered_value = input("Geben Sie eine Zahl bis 100 ein:")
+    entered_value = int(entered_value)
     if entered_value > 100:
-        raise ValueError(entered_value)      
+        raise ValueError(entered_value)
 except ValueError:
-   print(entered_value, " ist ausserhalb des gültigen Bereichs")
-except:
-    print("generischer Fehler")          
+    print("Ungültiger Wert:", entered_value)
 else:
-    print(entered_value, " ist eine gute Wahl")
+    print(entered_value, "ist eine gute Wahl.")
 finally:
-    print("die Operation ist abgeschlossen")
-
+    print("Die Operation ist abgeschlossen.")

@@ -1,7 +1,0 @@
-itertools Forschungsaufgabe ;-)
-Verwenden Sie den Interator "groupby" von itertools für folgende Aufgabe:
-Unten stehende Liste beinhaltet Dictionaries mit Produkten. Gruppieren Sie diese
-nach Ihrer Farbe (Color)
-
-
-[{"Name":"LL Crankarm","ProductNumber":"CA-5965","Color":"Black"},{"Name":"ML Crankarm","ProductNumber":"CA-6738","Color":"Black"},{"Name":"HL Crankarm","ProductNumber":"CA-7457","Color":"Black"},{"Name":"Chainring Bolts","ProductNumber":"CB-2903","Color":"Silver"},{"Name":"Chainring Nut","ProductNumber":"CN-6137","Color":"Silver"},{"Name":"Chainring","ProductNumber":"CR-7833","Color":"Black"},{"Name":"Freewheel","ProductNumber":"FH-2981","Color":"Silver"},{"Name":"Front Derailleur Cage","ProductNumber":"FC-3982","Color":"Silver"},{"Name":"Front Derailleur Linkage","ProductNumber":"FL-2301","Color":"Silver"},{"Name":"Lock Ring","ProductNumber":"LR-2398","Color":"Silver"}]

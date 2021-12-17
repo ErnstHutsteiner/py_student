@@ -1,8 +1,0 @@
-Erstellen Sie eine Klasse, die den Zugriff und Datenaustausch auf 
-MSSQL ermöglicht.
-Stellen Sie zwei Methoden bereit, mit der Abfragen ausgeführt werden können,
-einmal mit und einmal ohne Pandas Dataframes.
-Stellen Sie sicher, dass Verbindungen zu Beginn aufgebaut und am Ende 
-wieder abgebaut werden.
-
-Stichworte: __enter__, __exit__
