@@ -1,0 +1,9 @@
+Die folgeden zwei Listen repräsentieren das Chromosom 23
+zweier Individuen.
+
+["X", "Y"]
+["X", "X"]
+
+Verwenden Sie if..else
+Geben Sie True aus, wenn die Chromosomen identisich sind
+False, wenn nicht
