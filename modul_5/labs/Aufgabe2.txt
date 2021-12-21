@@ -1,0 +1,14 @@
+! Achtung, erfordert Recherchen ;-)
+
+Bevor ein Datensatz ausgegeben wird soll geprüft werden, ob alle Keys 
+
+{'Vorname': '', 
+               'Nachname': '',
+               'PLZ': '',
+               'Ort':''}
+vorhanden sind.
+
+1. Schreiben Sie eine Funktion welche prüft ob die Keys für jeden Record gültig sind.
+2. Geben Sie den Datensatz nur dann mit print() aus
+3. Schreiben Sie eine Funktion, die den fehlerhaften Datensatz in eine Datei schreibt.
+

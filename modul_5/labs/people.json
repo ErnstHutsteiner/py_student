@@ -1,0 +1,26 @@
+[
+    {
+        "Vorname" : "Johann",
+        "Nachname" : "Müller",
+        "PLZ" : "88435",
+        "Ort" : "Haxenhausen"
+    },
+    {
+        "Vorname" : "Marianne",
+        "Nachname" : "Johannson",
+        "PLZ" : "24888",
+        "Ort" : "Flennburg"
+    },
+    {
+        "Vorname" : "Ranjit",
+        "Nachname" : "Akabar",
+        "ZIP" : "77809",
+        "Ort" : "Delhi"
+    },
+    {
+        "Vorname" : "Kaethe",
+        "Nachname" : "Schmidt",
+        "PLZ" : "10000",
+        "Ort" : "Berlin"
+    }
+]
