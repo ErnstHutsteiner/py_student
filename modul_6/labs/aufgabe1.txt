@@ -1,0 +1,27 @@
+Erstellen Sie eine Klasse mit... 
+
+...den Properties:
+Betriebszustand: an/aus
+Kühlmittelstand: 0 - 100%
+Temperatur: in Grad Celsius
+Alarmstufe: grün, gelb, rot
+Toleranz: in Grad Celsius
+
+Kunden können:
+- den Betriebszustand einstellen
+- die Temperatur einstellen
+- den Kühlmittelstand lesen
+- die Alarmstufe lesen
+
+Bieten Sie ServiceTechnikern eine Möglichkeit das Kühlmittel aufzufüllen
+
+Methoden sorgen dafür, dass
+- Ausgabe von gelbem Alarm bei Kühlmittel <= 80%
+- Ausgabe von rotem Alarm bei Kühlmittel <=60%
+- Ausgabe von rotem Alarm bei Überschreitung der gesetzten Toleranzgrenzen
+
+Allgemein:
+Legen Sie Ihre Klasse in einer eigenen Datei ab.
+Importieren Sie diese in ihr Hauptprogramm. 
+Testen Sie dort Ihre Klasse.
+Und...es gibt nicht die eine richtige Lösung. Seien Sie gerne kreativ.
