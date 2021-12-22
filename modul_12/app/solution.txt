@@ -1,0 +1,10 @@
+Test starten mit:
+
+python3 -m unittest
+
+ersetze die Funktion in kreis.py mit:
+
+def kreis_flaeche(r):
+    if r < 0:
+        raise ValueError("netter Versuch ;-)")
+    return pi*(r**2)
